@@ -1,0 +1,36 @@
+MIT License & Hardware/Firmware Limitation of Liability
+
+Copyright (c) 2026 antmen71
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice, this permission notice, and the Disclaimer below
+shall be included in all copies or substantial portions of the Software.
+
+==============================================================================
+DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY (USE AT YOUR OWN RISK)
+==============================================================================
+
+1. UNOFFICIAL CUSTOM FIRMWARE & TOOLS:
+   This repository contains independent, unofficial custom bare-metal ARM
+   Thumb-1 firmware patches and MIDI utilities for the Arturia MiniLab 3
+   (STM32G0B1). It is NOT affiliated with, authorized, sponsored, endorsed,
+   or approved by Arturia. All product names and trademarks are property of
+   their respective owners.
+
+2. PROVIDED "AS IS" WITHOUT WARRANTY:
+   THE SOFTWARE AND FIRMWARE PACKAGES ARE PROVIDED "AS IS", WITHOUT WARRANTY
+   OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SAFETY,
+   AND NONINFRINGEMENT.
+
+3. ASSUMPTION OF RISK:
+   FLASHING MODIFIED FIRMWARE ONTO HARDWARE CONTROLLERS IS PERFORMED ENTIRELY
+   AT YOUR OWN RISK. ALWAYS KEEP A VERIFIED COPY OF THE ORIGINAL FACTORY
+   FIRMWARE (`minilab-3_Firmware_Update_1.2.0_FACTORY_BACKUP.mnl3`) BEFORE
+   FLASHING.

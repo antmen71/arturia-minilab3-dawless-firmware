@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+*.log
+minilab3_monitor_prefs.json
